@@ -5,7 +5,7 @@
  * interface to help ensure the trigger code is bulkified and all in one place...
  * Commit done by Venkat - TechM.
  * Second commit done by Venkat.
- * Developer 2 commit... by TECHMDEV2
+ * Developer 2 commit... by TECHMDEV2 by Developer2..
  */
 public with sharing class AccountHandler implements ITrigger
 {	
